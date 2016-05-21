@@ -2,5 +2,4 @@
 This is a new line.
 Second line.
 
-This is wrong. 
-Another wrong commit.
+This is a new feature.
